@@ -1,0 +1,21 @@
+13.0468
+耐久度，越靠前越新
+1. Factory New (FN) - 全新出厂
+2. Minimal Wear (MW) - 轻微磨损
+3. Field Tested (FT) - 久经沙场
+4. Well Worn (WW) - 残破不堪
+5. Battle Scarred (BS) - 身经百战
+
+武器特效（Perk）：
+- RECON SPECIALIST 侦察专家：增加远距离伤害
+- JACKED UP 亢奋：双杀后射速增加
+- EAGLE EYE 鹰眼：射程增加10%
+- IRON GRIP 铁腕：后座力降低15%
+- FEARLESS 无畏：首次射击后座力降低
+- HOT PURSHUIT 火速追踪：移动速度增加3%
+- BLOODTHIRSTY 嗜杀：击杀敌人后增加移动速度
+- FAST HANDS 巧手：换弹时间降低8%
+- CLOSE QUARTERS 短兵相接：增加近距离伤害
+- MARKSMANSHIP 枪法：弹丸分散降低15%
+- WAKE UP CALL 叫醒服务：重生后增加移动速度
+- BOUNCE HOUSE 弹跳屋：跳跃时命中率增加
